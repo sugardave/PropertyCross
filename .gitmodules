@@ -19,3 +19,6 @@
 [submodule "enyo/lib/onyx"]
 	path = enyo/lib/onyx
 	url = https://github.com/enyojs/onyx.git
+[submodule "enyo-mvc"]
+	path = enyo-mvc
+	url = git@github.com:sugardave/pc-enyo-mvc
